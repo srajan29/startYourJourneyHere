@@ -4,3 +4,4 @@ Format>> 	S.no, Name, City
 2., Sumit Kumar, Ajmer
 3., Pratik Singh, Dehradun
 4., Debarghya Chanda, Dehradun
+5., Vijayant Singh, Dehradun
